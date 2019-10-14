@@ -28,8 +28,8 @@ Result for the model-model contours. <br> <br>
 
 ## Acknowledgement:
 
-This script uses the <a href="https://github.com/cweniger/swordfish">Swordfish</a> module by <a href="https://arxiv.org/abs/1712.05401">Edwards and Weniger</a>. Reader can also reference a closely <a href="https://github.com/tedwards2412/benchmark_free_forecasting/">related work</a> by <a href="https://arxiv.org/abs/1805.04117">Weniger et al.</a>
+This script uses the <a href="https://github.com/cweniger/swordfish">Swordfish</a> module by <a href="https://arxiv.org/abs/1712.05401">Edwards and Weniger</a>. Reader can also refer to a closely <a href="https://github.com/tedwards2412/benchmark_free_forecasting/">related work</a> by <a href="https://arxiv.org/abs/1805.04117">Weniger et al.</a>
 
 The <a href="https://linoush.github.io/DM_Velocity_Distribution/">astrophysical model</a> is extracted from <a href="https://arxiv.org/abs/1807.02519">Niceb et al.</a>
 
-The detector parameters is taken from the <a href="https://arxiv.org/abs/1705.06655">XENON collaboration</a>. Their latest result at the time of this project is <a href="https://arxiv.org/abs/1805.12562">here</a> (1 ton year result).
+The LXe DD detector parameters are taken from the <a href="https://arxiv.org/abs/1705.06655">XENON collaboration</a>. Their latest result at the time of this project is <a href="https://arxiv.org/abs/1805.12562">here</a> (1 ton year result).
