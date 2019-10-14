@@ -14,16 +14,16 @@ The work is on <a href="https://arxiv.org/abs/1910.xxxxx">1910.xxxxx</a> by Jata
 
 The python notebooks serve as a narration of the forecast technique. The time sequence of the work that leads up to the publication is, in the python files, *dd_eft_substructure-velocity.ipynb* → *dd_eft_substructure-sf-signal-exclusion.ipynb* → *dd_eft_substructure-3D-Signals.ipynb*. The key results are in dd_eft_substructure-3D-Signals.ipynb.
 
-The _Gaia_-sausage compared to the Standard Halo Model (SHM). <br>
+The _Gaia_-sausage compared to the Standard Halo Model (SHM). <br> <br>
 <img src="Plots/f_v.png" width="60%">
 
-Result for the mass-coupling signal contours. <br>
+Result for the mass-coupling signal contours. <br> <br>
 <img src="Plots/signal_all.png" width="60%">
 
-Result for the DM mass-mediator mass contours. <br>
+Result for the DM mass-mediator mass contours. <br> <br>
 <img src="Plots/DM_mediator_sig.png" width="60%">
 
-Result for the model-model contours. <br>
+Result for the model-model contours. <br> <br>
 <img src="Plots/model_model_sig.png" width="60%">
 
 ## Acknowledgement:
