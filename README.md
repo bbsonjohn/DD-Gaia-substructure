@@ -13,10 +13,10 @@ By using the dark matter substructure know as the _Gaia_-sausage found by Niceb 
 The python notebooks serve as a narration of the forecast technique. The time sequence of the work that leads up to the publication is, in the python files, *dd_eft_substructure-velocity.ipynb* → *dd_eft_substructure-sf-signal-exclusion.ipynb* → *dd_eft_substructure-3D-Signals.ipynb*. The key results are in dd_eft_substructure-3D-Signals.ipynb.
 
 The _Gaia_-sausage compared to the Standard Halo Model (SHM). <br>
-<img src="Plots/f_v.pdf" width="60%">
+<img src="Plots/f_v.png" width="60%">
 
 Result for the mass-coupling signal contours. <br>
-<img src="Plots/signal_all.pdf" width="60%">
+<img src="Plots/signal_all.png" width="60%">
 
 Result for the DM mass-mediator mass contours. <br>
 <img src="Plots/DM_mediator_sig.png" width="60%">
