@@ -10,7 +10,7 @@ Date: 2019
 
 By using the dark matter substructure know as the _Gaia_-sausage found by Niceb _et al._, we study the effect of astrophysics uncertainty to the nuclear recoil rate in direct detection experiments. We investigate their effect on upper limits and contours for positive signals on XENON1T experiment. We also, by scaling up XENON1T detector exposure to 200 t yr, forecast a future Gen-3 LXe experiment, which is based on the purposed DARWIN experiment. We investigate the variation of astrophysical effects on different Non-relativistic operators and benchmark relativistic model.
 
-The work is on <a href="https://arxiv.org/abs/1910.xxxxx">1910.xxxxx</a> by Jatan Buch, John Shing Chau Leung, JiJi Fan.
+**The work is on <a href="https://arxiv.org/abs/1910.06356">1910.06356</a> by Jatan Buch, John Shing Chau Leung, JiJi Fan.**
 
 The python notebooks serve as a narration of the forecast technique. The time sequence of the work that leads up to the publication is, in the python files, *dd_eft_substructure-velocity.ipynb* → *dd_eft_substructure-sf-signal-exclusion.ipynb* → *dd_eft_substructure-3D-Signals.ipynb*. The key results are in dd_eft_substructure-3D-Signals.ipynb.
 
