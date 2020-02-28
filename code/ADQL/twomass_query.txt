@@ -1,4 +1,0 @@
--- twomass TAP query by John Leung
-SELECT ALL twomass.mainid, twomass.raj2000 AS ra, twomass.dej2000 AS dec, twomass.jmag AS j_mag, twomass.hmag AS h_mag, twomass.kmag AS k_mag, two mass.ph_qual
-FROM gaiadr1.tmass_original_valid as twomass
-WHERE twomass.jmag < 14;
