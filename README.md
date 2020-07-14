@@ -1,8 +1,10 @@
 # DD-Gaia-substructure
 
-Project: Effect of the _Gaia_ astrophysics for Dark Matter Direct Detection experiment
+Project: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.063026">Effect of the _Gaia_ astrophysics for Dark Matter Direct Detection experiment</a>
 
 Author: <a href="http://inspirehep.net/author/profile/Shing.Chau.Leung.1">John Leung</a>
+
+ArXiv: <a href="https://arxiv.org/abs/1910.06356">1910.06356</a>
 
 Date: 2019
 
